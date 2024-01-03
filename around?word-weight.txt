@@ -78,6 +78,7 @@ homme
 
 76
 
+
 vrai
 
 60
@@ -87,6 +88,12 @@ vérité
 139
 
 199
+
+vraiment
+
+27
+
+226
 
 femme
 
