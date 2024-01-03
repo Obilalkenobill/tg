@@ -56,9 +56,15 @@ homme
 
 76
 
+vrai
+
+60
+
 vérité
 
 139
+
+199
 
 femme
 
