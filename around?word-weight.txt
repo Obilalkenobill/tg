@@ -107,6 +107,14 @@ creation
 
 30
 
+fort
+
+22
+
+faible
+
+8
+
 vertueuses 2
 
 vertu 2
