@@ -125,9 +125,13 @@ vertus 9
 
 17
 
+guide
+
+9
+
 guidé
 
-17
+16
 
 Guide-nous
 
@@ -135,11 +139,11 @@ Guide-nous
 
 guidés
 
-4
+3
 
 guidée
 
-4
+7
 
 guidées 
 
