@@ -30,13 +30,15 @@ misericordieux 61
 +=108
 
 
-louange = 28
+louange = 28 titre 1
 
 ahmed 43
 
 loué 2*
 
 ahmed + louange 72 + loué 2 = 73
+
+christ 15 titre 1
 
 paradis
 
