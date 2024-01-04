@@ -66,6 +66,9 @@ paradis
 
 116
 
+Royaume
+
+20
 
 enfer
 
@@ -105,10 +108,9 @@ piete 12
 
 38
 
-homme
+Homme
 
 76
-
 
 vrai
 
