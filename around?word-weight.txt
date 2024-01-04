@@ -156,41 +156,29 @@ vertus 9
 
 17
 
-guide
+agrée
 
-9
+14
 
-guidé
+guide 9
 
-16
+guidé 16
 
-Guide-nous
+Guide-nous 1
 
-1
+guidés 3
 
-guidés
+guidée 7
 
-3
+guidées 1
 
-guidée
+guidance 3
 
-7
+guider 2
 
-guidées 
+Guidons 1
 
-1
-
-guidance
-
-3
-
-guider
-
-2
-
-Guidons
-
-1
+43
 
 islam
 
