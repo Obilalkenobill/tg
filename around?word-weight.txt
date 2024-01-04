@@ -232,9 +232,9 @@ environ  1.119 emission du nom du Seigneur en toutes formes.
 
 à ce dernier :
 
-soumis 
+soumis... 
 
-40
+22
 
 
 
