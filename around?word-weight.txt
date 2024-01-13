@@ -114,6 +114,10 @@ bienheureux
 
 1
 
+bon
+
+41
+
 bien_
 
 153
@@ -122,9 +126,13 @@ mal_
 
 155
 
-pieux 26
+pieux 
 
-piete 12
+26
+
+piete 
+
+12
 
 38
 
@@ -260,6 +268,10 @@ haut
 
 69
 
+dessus
+
+48
+
 élevé
 
 34
@@ -296,3 +308,10 @@ dernier
 
 dernier 30
 
+terre
+
+45
+
+mer
+
+5
