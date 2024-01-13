@@ -82,9 +82,17 @@ mécréant
 
 86
 
+mécréance
+
+40
+
 croyant
 
 103
+
+croyance
+
+28
 
 gloire
 
@@ -240,5 +248,27 @@ soumis...
 
 40
 
+haut 
 
+69
+
+élevé
+
+34
+
+bas
+
+125
+
+pardon
+
+27
+
+repentir
+
+20
+
+repent_
+
+74
 
