@@ -118,10 +118,9 @@ bien_
 
 153
 
-mal
+mal_
 
 155
-
 
 pieux 26
 
@@ -280,4 +279,20 @@ repentir
 repent_
 
 74
+
+rappel
+
+35
+
+premier
+
+11 deuxieme partie 1 premiere partie
+
+-> premier 12
+
+dernier
+
+15 dans les deux
+
+dernier 30
 
